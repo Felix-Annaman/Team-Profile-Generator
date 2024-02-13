@@ -30,3 +30,6 @@ To run the tests for the classes, run the following command:
 
 ```
 npm run test
+
+![image](https://github.com/Felix-Annaman/Team-Profile-Generator/assets/150185196/c04e87e8-90ee-47cd-8b45-ef3e58524693)
+
