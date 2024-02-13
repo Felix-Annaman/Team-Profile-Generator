@@ -1,0 +1,63 @@
+/* Reset some default styles */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #f4f4f4;
+}
+
+.container-fluid {
+    padding: 20px;
+}
+
+/* Style the header */
+.jumbotron {
+    background-color: #007bff;
+    color: white;
+    padding: 20px 0;
+}
+
+.jumbotron h1 {
+    font-size: 2em;
+}
+
+/* Style the team cards */
+.team-area {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.team-card {
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin: 20px;
+    padding: 20px;
+    width: calc(100% / 3 - 40px);
+}
+
+.team-card h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.team-card p {
+    margin-bottom: 10px;
+}
+
+/* Responsive styles */
+@media (max-width: 800px) {
+    .team-card {
+        width: calc(100% / 2 - 40px);
+    }
+}
+
+@media (max-width: 500px) {
+    .team-card {
+        width: 100%;
+    }
+}
