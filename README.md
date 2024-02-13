@@ -31,5 +31,9 @@ To run the tests for the classes, run the following command:
 ```
 npm run test
 
-![image](https://github.com/Felix-Annaman/Team-Profile-Generator/assets/150185196/c04e87e8-90ee-47cd-8b45-ef3e58524693)
+All test passed - ![image](https://github.com/Felix-Annaman/Team-Profile-Generator/assets/150185196/c04e87e8-90ee-47cd-8b45-ef3e58524693)
+
+## Demo
+Attempted to generate HTML file - ![image](https://github.com/Felix-Annaman/Team-Profile-Generator/assets/150185196/5387a047-e231-4ede-949a-e6e7dc599d65)
+
 
